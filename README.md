@@ -8,7 +8,7 @@ https://www.figma.com/file/hYHqMQO2HRvDLysBOAXN5H/Stuff?node-id=0%3A1
 <ul>
   <li>Kite API Bridge - Makes API Calls to Broker (Kite)</li>
   <li><strong>Historical Data DB (Design Pending)</strong> - DB to store historical data, OHLC with time, volume, OI</li>
-  <li><strong>Data Manager</strong> - Provides historical data from Broker</li>
+  <li><strong>Data Manager</strong> - Provides historical stock data from Broker</li>
   <li>Data Request MQ</li>
   <li>Data Notify MQ</li>
   <li><strong>Backtester</strong> - The meat of the machine, parses, executes strategies on historical data and generates results
