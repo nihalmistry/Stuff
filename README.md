@@ -4,7 +4,7 @@ This repo contains some stuff
 <h3>WIP: Architecture Diagram </h3>
 https://www.figma.com/file/hYHqMQO2HRvDLysBOAXN5H/Stuff?node-id=0%3A1
 
-<h3>Pending Work</h3>
+<h3>Work Pipeline:</h3>
 <ol>
   <li>Kite API Bridge</li>
   <li><strong>Historical Data DB (Design Pending)</strong></li>
