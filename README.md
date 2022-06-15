@@ -13,7 +13,7 @@ https://www.figma.com/file/hYHqMQO2HRvDLysBOAXN5H/Stuff?node-id=0%3A1
   <li>Data Notify MQ</li>
   <li><strong>Backtester</strong> - The meat of the machine, parses, executes strategies on historical data and generates results
     <ul>
-      <li>Can we use ready-made backtester?</li>
+      <li>Can we use ready-made backtester? https://pypi.org/project/Backtesting/</li>
       <li>Whats the feasibility?</li>
     </ul>
   </li>
