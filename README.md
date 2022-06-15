@@ -5,7 +5,7 @@ This repo contains some stuff
 https://www.figma.com/file/hYHqMQO2HRvDLysBOAXN5H/Stuff?node-id=0%3A1
 
 <h3>Work Pipeline:</h3>
-<ol>
+<ul>
   <li>Kite API Bridge</li>
   <li><strong>Historical Data DB (Design Pending)</strong></li>
   <li><strong>Downloader</strong></li>
@@ -23,4 +23,4 @@ https://www.figma.com/file/hYHqMQO2HRvDLysBOAXN5H/Stuff?node-id=0%3A1
   <li><strong>Strategy DB (Design Pending)</strong></li>
   <li>Backtester MQ</li>
   <li>Stuff API</li>
-</ol>
+</ul>
