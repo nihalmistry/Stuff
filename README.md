@@ -7,7 +7,7 @@ https://www.figma.com/file/hYHqMQO2HRvDLysBOAXN5H/Stuff?node-id=0%3A1
 <h3>Work Pipeline:</h3>
 <ul>
   <li>Kite API Bridge - Makes API Calls to Broker (Kite)</li>
-  <li><strong>Historical Data DB (Design Pending)</strong> - DB to store historical data, OHLC with time, volume, OI</li>
+  <li><strong>Historical Data DB (Design Pending)</strong> - DB to store historical data, OHLC with timestamp, volume, OI</li>
   <li><strong>Data Manager</strong> - Provides historical stock data from Broker</li>
   <li>Data Request MQ</li>
   <li>Data Notify MQ</li>
@@ -19,7 +19,6 @@ https://www.figma.com/file/hYHqMQO2HRvDLysBOAXN5H/Stuff?node-id=0%3A1
   </li>
   <li><strong>Strategy Code</strong> - Code executed by the backtester on the historical data to generate trades
     <ul>
-      <li>Use existing tools to write strategies in</li>
       <li>Use Python scripts for backtesting?</li>
       <li>Use Java .class with Serialization/Reflection?</li>
       <li>Write Custom parser / interpreter?</li>
